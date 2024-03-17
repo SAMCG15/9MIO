@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcc1c66bb2ec14ab791591a8bf43d353, type: 3}
+  m_Name: SpaceTemplate_1
+  m_EditorClassIdentifier: 
+  version: 0
+  sku: 65f663a0a6cc290a31b875ff
+  packageName: 9MIO
+  thumbnail: {fileID: 0}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  variants:
+  - name: 9MIO
+    id: caff8c0453e24f2a9300dc972df81522
+    scene: {fileID: 102900000, guid: e67c44801ce6e5a4cbdb20884188ffd6, type: 3}
+    thumbnail: {fileID: 2800000, guid: 1a6c3293139ba864592ad1d30c763af2, type: 3}
+    miniThumbnail: {fileID: 0}
+    thumbnailColor: {r: 0, g: 0, b: 0, a: 0}
